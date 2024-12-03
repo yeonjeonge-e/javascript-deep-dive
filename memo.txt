@@ -1,0 +1,6 @@
+package.json 생성하기
+>> npm init
+
+code runner extensions 설치
+>> 단축키 : Ctrl + Alt + n
+
