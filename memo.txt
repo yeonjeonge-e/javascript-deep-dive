@@ -4,3 +4,5 @@ package.json 생성하기
 code runner extensions 설치
 >> 단축키 : Ctrl + Alt + n
 
+https://kotlinworld.com/266
+>> vsc github 연결
